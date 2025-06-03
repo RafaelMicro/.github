@@ -1,7 +1,7 @@
 # Rafael Micro 
 
 Welcome to Rafael Micro’s official open-source software repositories.  
-We design and deliver silicon and software solutions to power next-generation IoT and wireless applications.
+
 
 ## About Us
 

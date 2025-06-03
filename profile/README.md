@@ -11,7 +11,7 @@ Our open-source repositories are part of Rafael Micro's software offering, desig
 
 ---
 
-## 🌐 More from Rafael Micro
+## More from Rafael Micro
 
 For documentation, SDK downloads and support, please visit our official website and community channels:
 
@@ -20,6 +20,3 @@ For documentation, SDK downloads and support, please visit our official website 
 - [Developer Support Portal](https://www.rafaelmicro.com/contact)
 
 ---
-
-Let’s build the future of connected devices — together.
-
